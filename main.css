@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+.gallery-item {
+    background: pink;
+    width: 200px;
+    height: 400px;
+}
+
+.gallery-item img {
+  height: 200px;  
+}
